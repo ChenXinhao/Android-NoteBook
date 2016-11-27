@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="editor_title">Write Your title here</string>
+    <string name="editor_body">Write Your content here</string>
+    <string name="editor_confirm">Save</string>
+    <string name="menu_delete">Delete Note</string>
+</resources>
